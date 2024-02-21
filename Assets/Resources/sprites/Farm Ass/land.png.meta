@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 79d91db2458427b45b941d5bcbbba50f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dirtpath_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb151ffb43ccbe4b8d8d52a3694e757
+      internalID: -1807850604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtpath_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76764d65d1b9864468cca05ccaf28093
+      internalID: 967650916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtpath_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d2bc348793374a898ac4952a36b7d
+      internalID: -76047673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtpath_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cee262f456dfb44b96665073f789d6
+      internalID: -38352070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtpath_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558451a9d5205141b7ce77ae1122518
+      internalID: 1204873261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtpath_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ac6c7b93dd1a499e3a74b55f19bd3
+      internalID: -388094387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dirtpath_tiles_21: -999720871
+      dirtpath_tiles_29: 1628584536
+      dirtpath_tiles_62: 862601642
+      dirtpath_tiles_38: 1029391202
+      dirtpath_tiles_63: 703471502
+      dirtpath_tiles_13: -400151148
+      dirtpath_tiles_7: 2922584
+      dirtpath_tiles_9: 1344958652
+      dirtpath_tiles_18: -1105707306
+      dirtpath_tiles_31: -328488461
+      dirtpath_tiles_57: 967650916
+      dirtpath_tiles_40: -947319371
+      dirtpath_tiles_19: 1588223298
+      dirtpath_tiles_33: 698270944
+      dirtpath_tiles_6: -1000982852
+      dirtpath_tiles_49: 1160313298
+      dirtpath_tiles_14: -1297356974
+      dirtpath_tiles_34: 697928365
+      dirtpath_tiles_17: 90722218
+      dirtpath_tiles_42: 2084095586
+      dirtpath_tiles_44: 1750227520
+      dirtpath_tiles_55: -563750963
+      dirtpath_tiles_52: -1575035901
+      dirtpath_tiles_20: -998242477
+      dirtpath_tiles_41: -2155177
+      dirtpath_tiles_4: 1023312148
+      dirtpath_tiles_16: -1868908420
+      dirtpath_tiles_10: 605255832
+      dirtpath_tiles_0: 112484199
+      land_0: -7653888
+      dirtpath_tiles_25: 1863494718
+      dirtpath_tiles_54: 1027997218
+      dirtpath_tiles_3: -1610330128
+      dirtpath_tiles_43: -369113417
+      dirtpath_tiles_47: 1059876115
+      dirtpath_tiles_26: -531948750
+      dirtpath_tiles_53: -1951151115
+      dirtpath_tiles_27: -882486452
+      dirtpath_tiles_24: -459100937
+      dirtpath_tiles_56: -1807850604
+      dirtpath_tiles_35: 58410333
+      dirtpath_tiles_45: -954899731
+      dirtpath_tiles_32: 1152242148
+      dirtpath_tiles_58: -76047673
+      dirtpath_tiles_46: 570540811
+      dirtpath_tiles_39: -1062874778
+      dirtpath_tiles_15: 1179561597
+      dirtpath_tiles_28: 2002782103
+      dirtpath_tiles_50: 145831801
+      dirtpath_tiles_60: -388094387
+      dirtpath_tiles_36: -637632763
+      dirtpath_tiles_1: 1415369889
+      dirtpath_tiles_23: -1873082555
+      dirtpath_tiles_12: 663359431
+      dirtpath_tiles_61: 1204873261
+      dirtpath_tiles_37: -410662261
+      dirtpath_tiles_30: 1276102303
+      dirtpath_tiles_5: -475685463
+      dirtpath_tiles_11: -741673339
+      dirtpath_tiles_2: -721546871
+      dirtpath_tiles_48: -259191536
+      dirtpath_tiles_51: -464410863
+      dirtpath_tiles_59: -38352070
+      dirtpath_tiles_22: 1987459082
+      dirtpath_tiles_8: -437593773
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

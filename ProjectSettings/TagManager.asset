@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - ArableLand
+  - FLBlue
+  - Dig
+  - npc
+  - npc1
+  - enemy1
+  - enemy2
+  - enemy3
+  - boom
+  - axe
+  - Tree_Snow
+  - wood
+  - bird
+  - Map1vsMap2
+  - Map4vsMap1
+  - teleporter
+  - Map2vsMap3
+  - SavePosition
+  - Sheaf
+  - TreeCut
+  - Behind
+  - Boss
+  - trap
+  - enemy6
+  - enemy7
+  - enemy8
+  - BossAttack
+  - Slimebite
+  - BossBullet
+  - Key
+  - LifePot
+  - myFarm
+  - beginArea
+  - roadMyVillage
+  - beach
+  - town
+  - dungeon
+  - outDungeon
+  - farm
+  - outtown
+  - CArrow
+  - tuong
+  - Sideman1
+  - Sidemantuto
+  - Sideman5.2
+  - Sideman5A
+  - Startman3A
+  - Endman3
+  - Interact
+  - RainParticleSystem
+  - boar
+  - rawmeat
+  - meat
+  - Map4toMap1
+  - Map1ToMap4
+  - Map1toMap2
+  - Map2toMap1
+  - Map2toMap3
+  - Map3toMap2
+  - Map1toMap4Fix
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - GamePlay
+  - MiniMap1
+  - MiniMap2
+  - MiniMap3
+  - MiniMap4
+  - Map4-1
+  - Map1-4
+  - Map1-2
+  - Map2-1
+  - Map2-3
+  - Map3-2
+  - endman1
+  - startman2
+  - EnterDungeon
+  - OutDungeon
+  - Endman2
+  - Sideman3
+  - Startman3
+  - Sideman4.1
+  - Sideman4.2
+  - Endman5
+  - Startman6
+  - Endman6
+  - Startman7
+  - Sideman5.1
+  - Endman7
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2653062547
+    locked: 0
+  - name: OverBackground
+    uniqueID: 2740407619
+    locked: 0
+  - name: GamePlay
+    uniqueID: 304961483
+    locked: 0
